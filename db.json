@@ -63,12 +63,12 @@
       "genero": " ",
       "estadoCivil": " ",
       "origenIngr": " "
-    }
+    };
     {
       "id": 2,
       "idProvCli": 1790,
       "codProvCli": "1105354508",
-      "nombre": "Fausto Leodan Malla Salinas",
+      "nombre": "Malla Salinas Fausto Leodan",
       "bandProveedor": 0,
       "bandCliente": 1,
       "idCuentaContable": 16,
