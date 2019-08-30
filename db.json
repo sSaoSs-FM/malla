@@ -4,7 +4,7 @@
     {
       "idProvCli": 1790,
       "codProvCli": "1103432874",
-      "nombre": "App Pepito Dieguito",
+      "nombre": "App Pepito Juanito",
       "bandProveedor": 0,
       "bandCliente": 1,
       "idCuentaContable": 16,
@@ -299,7 +299,7 @@
     {
       "idProvCli": 1795,
       "codProvCli": "0793452222",
-      "nombre": "Andres Gallego",
+      "nombre": "Andres Gallegos",
       "bandProveedor": false,
       "bandCliente": true,
       "idCuentaContable": 16,
